@@ -1,2 +1,3 @@
 venv
+CRUD_users/db.sqlite3
 CRUD_users/CRUD_users/key.py
