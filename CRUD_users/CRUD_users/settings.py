@@ -6,7 +6,7 @@ import dj_database_url
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
-ApiConfig = os.path.join(BASE_DIR, 'ApiConfig')
+ApiConfig = os.path.join(BASE_DIR, 'api/apps.ApiConfig')
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
